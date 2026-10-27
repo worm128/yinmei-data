@@ -1,1 +1,4 @@
-{"version": "3.0.1", "download_url": "https://github.com/worm128/yinmei-site/releases/download/3.0.0-Pre/AI-YinMei-v3.0.0-Pre-Windows-x64-Setup.exe", "is_force": true}
+[
+{"platform":"window",""version": "3.0.1", "download_url": "https://github.com/worm128/yinmei-site/releases/download/3.0.0-Pre/AI-YinMei-v3.0.0-Pre-Windows-x64-Setup.exe", "is_force": false},
+{"platform":"linux",""version": "3.0.1", "download_url": "https://github.com/worm128/yinmei-site/releases/download/3.0.0-Pre/AI-YinMei-v3.0.0-Pre-Windows-x64-Setup.exe", "is_force": false},
+]
