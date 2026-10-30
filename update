@@ -1,4 +1,4 @@
 [
-{"platform":"window",""version": "3.0.2", "download_url": "http://192.168.2.198/AI-YinMei-v3.0.1-Pre-Windows-x64-Setup.exe", "is_force": false},
-{"platform":"linux",""version": "3.0.2", "download_url": "http://192.168.2.198/AI-YinMei-v3.0.2-Pre.zip", "is_force": false},
+{"platform":"window",""version": "3.0.0", "download_url": "http://192.168.2.198/AI-YinMei-v3.0.1-Pre-Windows-x64-Setup.exe", "is_force": false},
+{"platform":"linux",""version": "3.0.0", "download_url": "http://192.168.2.198/AI-YinMei-v3.0.2-Pre.zip", "is_force": false},
 ]
