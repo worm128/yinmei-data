@@ -113,4 +113,11 @@
     "link": "/sing/music_note.html",
     "imageUrl": "img/plug17.png"
   },
+  {
+    "title": "唱歌列表",
+    "description": "唱歌列表显示",
+    "link": "/test/songlist.html",
+    "imageUrl": "https://www.yinmei.vip/images/yinmei-cover.jpg",
+    "download": "http://file.yinmei.vip/test.zip?e=1824895189&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:qLFNRnPFfTRPRTuhiotCng3kkNQ="
+  }
 ]
