@@ -10,17 +10,5 @@
     "icon": "https://img.icons8.com/?size=100&id=saHMn3wyElLF&format=png&color=000000",
     "description": "AI吟美0.88元的<a href='https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=40254757&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share' taget='_blank'>20年使用卡</a>，还有最后10份名额冲刺",
     "time": "2026-10-29 09:00"
-  },
-  {
-    "title": "三大法师大法师",
-    "icon": "https://img.icons8.com/?size=100&id=saHMn3wyElLF&format=png&color=000000",
-    "description": "AI吟美0.88元的20年使用卡，还有最后10份名额冲刺",
-    "time": "2026-10-29 09:00"
-  },
-  {
-    "title": "1221121221",
-    "icon": "https://img.icons8.com/?size=100&id=saHMn3wyElLF&format=png&color=000000",
-    "description": "AI吟美0.88元的20年使用卡，还有最后10份名额冲刺",
-    "time": "2026-10-29 09:00"
   }
 ]
