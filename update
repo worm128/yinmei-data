@@ -1,4 +1,4 @@
 [
-{"platform":"window",""version": "3.0.2", "download_url": "http://file.yinmei.vip/AI-YinMei-v3.0.1-Pre-Windows-x64-Setup-202610302257.exe?e=1824908271&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:TOUMECnN8A2qAUmiqc1jOJsRuDI=", "is_force": false},
-{"platform":"linux",""version": "3.0.2", "download_url": "http://file.yinmei.vip/AI-YinMei-v3.0.2-Pre-202610302256.zip?e=1824908223&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:EIXkifCeyV6fqKm737itB4qNCps=", "is_force": false},
+{"platform":"window",""version": "3.0.2", "download_url": "http://192.168.2.198/AI-YinMei-v3.0.1-Pre-Windows-x64-Setup.exe", "is_force": false},
+{"platform":"linux",""version": "3.0.2", "download_url": "http://192.168.2.198/AI-YinMei-v3.0.2-Pre.zip", "is_force": false},
 ]
