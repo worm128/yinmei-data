@@ -1,116 +1,116 @@
 [
   {
-    title: "二次元聊天回复框",
-    description: "AI吟美的文字回复的蓝色二次元风格的对话框",
-    link: "/chat-reply/qchatui.html",
-    imageUrl: "img/plug1.jpg"
+    "title": "二次元聊天回复框",
+    "description": "AI吟美的文字回复的蓝色二次元风格的对话框",
+    "link": "/chat-reply/qchatui.html",
+    "imageUrl": "img/plug1.jpg"
   },
   {
-    title: "黑色聊天回复框",
-    description: "AI吟美的文字回复黑色对话框",
-    link: "/chat-reply/chatui black_ws.html",
-    imageUrl: "img/plug2.jpg"
+    "title": "黑色聊天回复框",
+    "description": "AI吟美的文字回复黑色对话框",
+    "link": "/chat-reply/chatui black_ws.html",
+    "imageUrl": "img/plug2.jpg"
   },
   {
-    title: "聊天提示框",
-    description: "用户留言的粉红色留言提示框，有显示来源平台",
-    link: "/chat-tip/decision.html",
-    imageUrl: "img/plug3.png"
+    "title": "聊天提示框",
+    "description": "用户留言的粉红色留言提示框，有显示来源平台",
+    "link": "/chat-tip/decision.html",
+    "imageUrl": "img/plug3.png"
   },
   {
-    title: "情感+决策提示",
-    description: "AI吟美的决策和情感展示",
-    link: "/chat-tip/emotion.html",
-    imageUrl: "img/plug4.png"
+    "title": "情感+决策提示",
+    "description": "AI吟美的决策和情感展示",
+    "link": "/chat-tip/emotion.html",
+    "imageUrl": "img/plug4.png"
   },
   {
-    title: "积分增减提示",
-    description: "当用户聊天、点赞、送礼、上舰会增加积分，增加积分会以气泡形式展示；唱歌、画画、跳舞等会扣减积分。",
-    link: "/chat-tip/tip.html",
-    imageUrl: "img/plug18.png"
+    "title": "积分增减提示",
+    "description": "当用户聊天、点赞、送礼、上舰会增加积分，增加积分会以气泡形式展示；唱歌、画画、跳舞等会扣减积分。",
+    "link": "/chat-tip/tip.html",
+    "imageUrl": "img/plug18.png"
   },
   {
-    title: "聚合弹幕",
-    description: "B站+斗鱼+虎牙+抖音+快手+QQ+后台+桌宠的留言来源展示，包含：进入房间、送礼物、上舰、留言、点赞",
-    link: "/danmaku/danmaku.html",
-    imageUrl: "img/plug5.jpg"
+    "title": "聚合弹幕",
+    "description": "B站+斗鱼+虎牙+抖音+快手+QQ+后台+桌宠的留言来源展示，包含：进入房间、送礼物、上舰、留言、点赞",
+    "link": "/danmaku/danmaku.html",
+    "imageUrl": "img/plug5.jpg"
   },
   {
-    title: "聚合弹幕-mini",
-    description: "迷离版本聚合弹幕，支持B站+斗鱼+虎牙+抖音+快手+QQ+后台+桌宠",
-    link: "/danmaku/danmaku_mini.html",
-    imageUrl: "img/plug5-1.png"
+    "title": "聚合弹幕-mini",
+    "description": "迷离版本聚合弹幕，支持B站+斗鱼+虎牙+抖音+快手+QQ+后台+桌宠",
+    "link": "/danmaku/danmaku_mini.html",
+    "imageUrl": "img/plug5-1.png"
   },
   {
-    title: "上舰送礼特效",
-    description: "上舰送礼特效，可以自定义动画效果",
-    link: "/effect/effect.html",
-    imageUrl: "img/plug6.png"
+    "title": "上舰送礼特效",
+    "description": "上舰送礼特效，可以自定义动画效果",
+    "link": "/effect/effect.html",
+    "imageUrl": "img/plug6.png"
   },
   {
-    title: "用户自主抽奖",
-    description: "用户输入'抽奖'或者'抽奖10'，可以进行单词或者多次抽奖【需要开启数据库，并且购买抽奖秘钥】",
-    link: "/self-prize/prize.html",
-    imageUrl: "img/plug7.png"
+    "title": "用户自主抽奖",
+    "description": "用户输入'抽奖'或者'抽奖10'，可以进行单词或者多次抽奖【需要开启数据库，并且购买抽奖秘钥】",
+    "link": "/self-prize/prize.html",
+    "imageUrl": "img/plug7.png"
   },
   {
-    title: "集体抽奖",
-    description: "在抽奖配置那里进行直播间所有在线用户的集体抽奖",
-    link: "/prize/prize.html",
-    imageUrl: "img/plug8.png"
+    "title": "集体抽奖",
+    "description": "在抽奖配置那里进行直播间所有在线用户的集体抽奖",
+    "link": "/prize/prize.html",
+    "imageUrl": "img/plug8.png"
   },
   {
-    title: "歌单列表",
-    description: "用户点歌和学歌合并列表",
-    link: "/sing/songlist.html",
-    imageUrl: "img/plug9.jpg"
+    "title": "歌单列表",
+    "description": "用户点歌和学歌合并列表",
+    "link": "/sing/songlist.html",
+    "imageUrl": "img/plug9.jpg"
   },
   {
-    title: "歌词",
-    description: "唱歌时候的歌词显示，会滚动显示当前高亮歌词文本",
-    link: "/sing/lrc.html",
-    imageUrl: "img/plug10.png"
+    "title": "歌词",
+    "description": "唱歌时候的歌词显示，会滚动显示当前高亮歌词文本",
+    "link": "/sing/lrc.html",
+    "imageUrl": "img/plug10.png"
   },
   {
-    title: "MCP思考展示",
-    description: "AI调用工具的思考过程展示，显示调用工具名称、工具返回结果、异常情况等",
-    link: "/tools/tools.html",
-    imageUrl: "img/plug11.jpg"
+    "title": "MCP思考展示",
+    "description": "AI调用工具的思考过程展示，显示调用工具名称、工具返回结果、异常情况等",
+    "link": "/tools/tools.html",
+    "imageUrl": "img/plug11.jpg"
   },
   {
-    title: "公告展示牌",
-    description: "一个轮换的公告展示位置，可以设置多个公告轮换",
-    link: "/other/func-readme.html",
-    imageUrl: "img/plug12.png"
+    "title": "公告展示牌",
+    "description": "一个轮换的公告展示位置，可以设置多个公告轮换",
+    "link": "/other/func-readme.html",
+    "imageUrl": "img/plug12.png"
   },
   {
-    title: "积分排行榜",
-    description: "直播间积分榜，积分最多的10位直播间用户，按平台划分，直播间输入「排行榜」可以查看列表",
-    link: "/other/rank.html",
-    imageUrl: "img/plug13.png"
+    "title": "积分排行榜",
+    "description": "直播间积分榜，积分最多的10位直播间用户，按平台划分，直播间输入「排行榜」可以查看列表",
+    "link": "/other/rank.html",
+    "imageUrl": "img/plug13.png"
   },
   {
-    title: "我的积分",
-    description: "用户输入「我的积分」，可以查询自己对应平台的积分",
-    link: "/other/userscore.html",
-    imageUrl: "img/plug14.png"
+    "title": "我的积分",
+    "description": "用户输入「我的积分」，可以查询自己对应平台的积分",
+    "link": "/other/userscore.html",
+    "imageUrl": "img/plug14.png"
   },
   {
-    title: "视频播放插件",
-    description: "输入「给我找一个dora视频」，AI吟美会去B站下载相关视频并且进行播放",
-    link: "/other/video.html",
-    imageUrl: "img/plug15.png"
+    "title": "视频播放插件",
+    "description": "输入「给我找一个dora视频」，AI吟美会去B站下载相关视频并且进行播放",
+    "link": "/other/video.html",
+    "imageUrl": "img/plug15.png"
   },
   {
-    title: "时间",
-    description: "一个显示时间的插件，年月日时间分秒",
-    link: "/other/time.html",
-    imageUrl: "img/plug16.png"
+    "title": "时间",
+    "description": "一个显示时间的插件，年月日时间分秒",
+    "link": "/other/time.html",
+    "imageUrl": "img/plug16.png"
   },
   {
-    title: "音符🎵",
-    description: "唱歌时候音乐符号🎶往下落",
-    link: "/sing/music_note.html",
-    imageUrl: "img/plug17.png"
+    "title": "音符🎵",
+    "description": "唱歌时候音乐符号🎶往下落",
+    "link": "/sing/music_note.html",
+    "imageUrl": "img/plug17.png"
   },
 ]
