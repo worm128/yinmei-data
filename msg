@@ -2,13 +2,13 @@
   {
     "title": "最新3.0.0-Pre发布",
     "icon": "https://img.icons8.com/?size=100&id=zSH66jP4NK8n&format=png&color=000000",
-    "description": "AI吟美技术框架已全面升级，后台管理系统全面换肤，大家快来<a href='https://www.yinmei.vip' taget='_blank'>下载</a>尝试吧",
+    "description": "AI吟美技术框架已全面升级，后台管理系统全面换肤，大家快来<a href='https://www.yinmei.vip' target='_blank'>下载</a>尝试吧",
     "time": "2026-10-30 19:04"
   },
   {
     "title": "0.88元的20年使用卡",
     "icon": "https://img.icons8.com/?size=100&id=saHMn3wyElLF&format=png&color=000000",
-    "description": "AI吟美0.88元的<a href='https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=40254757&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share' taget='_blank'>20年使用卡</a>，还有最后10份名额冲刺",
+    "description": "AI吟美0.88元的<a href='https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=40254757&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share' target='_blank'>20年使用卡</a>，还有最后10份名额冲刺",
     "time": "2026-10-29 09:00"
   }
 ]
