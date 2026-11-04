@@ -1,5 +1,11 @@
 [
   {
+    "title": "二次元超可爱聊天回复框",
+    "description": "AI吟美的文字回复的粉色可爱二次元风格的对话框",
+    "link": "/chat-reply/yinmei-chatui.html",
+    "imageUrl": "https://data.yinmei.vip/img/keai_reply.png"
+  },
+  {
     "title": "二次元聊天回复框",
     "description": "AI吟美的文字回复的蓝色二次元风格的对话框",
     "link": "/chat-reply/qchatui.html",
