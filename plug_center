@@ -70,21 +70,21 @@
     "description": "用户点歌和学歌合并列表",
     "link": "/sing/songlist.html",
     "imageUrl": "img/plug9.jpg",
-    "download": "http://file.yinmei.vip/sing.zip?e=1825912495&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:FOMTtlfuhe4ZAU6hAC2YpFUmGVQ="
+    "download": "http://file.yinmei.vip/plug_center/sing.zip?e=1825912865&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:pPMevXGNWB5BlPC7vYSETSJ3LZ4="
   },
   {
     "title": "粉红歌词",
     "description": "[粉色可爱边框]唱歌时候的歌词显示，会滚动显示当前高亮歌词文本",
     "link": "/sing/yinmei-lrc.html",
     "imageUrl": "img/plug10.png",
-    "download": "http://file.yinmei.vip/sing.zip?e=1825912495&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:FOMTtlfuhe4ZAU6hAC2YpFUmGVQ="
+    "download": "http://file.yinmei.vip/plug_center/sing.zip?e=1825912865&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:pPMevXGNWB5BlPC7vYSETSJ3LZ4="
   },
   {
     "title": "透明歌词",
     "description": "[无边框透明背景]唱歌时候的歌词显示，会滚动显示当前高亮歌词文本",
     "link": "/sing/lrc.html",
     "imageUrl": "https://data.yinmei.vip/img/lrc_simple.png",
-    "download": "http://file.yinmei.vip/sing.zip?e=1825912495&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:FOMTtlfuhe4ZAU6hAC2YpFUmGVQ="
+    "download": "http://file.yinmei.vip/plug_center/sing.zip?e=1825912865&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:pPMevXGNWB5BlPC7vYSETSJ3LZ4="
   },
   {
     "title": "AI思考展示",
@@ -133,6 +133,6 @@
     "description": "唱歌列表显示",
     "link": "/test/songlist.html",
     "imageUrl": "https://www.yinmei.vip/images/yinmei-cover.jpg",
-    "download": "http://file.yinmei.vip/test.zip?e=1824895189&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:qLFNRnPFfTRPRTuhiotCng3kkNQ="
+    "download": "http://file.yinmei.vip/plug_center/test.zip?e=1825912836&token=wpcdkOVctYbTAJJtsjZRQu8rnhtB-zKJ45Yw90Hn:GeI9odyazPHvUs32L0EI8KlUw48="
   }
 ]
