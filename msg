@@ -1,5 +1,11 @@
 [
   {
+    "title": "最新3.0.2-Pre发布",
+    "icon": "https://img.icons8.com/?size=100&id=zSH66jP4NK8n&format=png&color=000000",
+    "description": "1、阿里百炼语音合成适配36+语种<br/>2、Harness工程优化升级，智能体更智能<br/>3、默认增加find-skills、skill-creator，让智能体可以自主发现网上的技能或者自己编码创造技能<br/>大家快来<a href='https://www.yinmei.vip' target='_blank'>下载</a>尝试吧",
+    "time": "2026-11-20 16:00"
+  },
+  {
     "title": "最新3.0.1-Pre发布",
     "icon": "https://img.icons8.com/?size=100&id=zSH66jP4NK8n&format=png&color=000000",
     "description": "AI吟美技术框架已全面升级，后台管理系统全面换肤，大家快来<a href='https://www.yinmei.vip' target='_blank'>下载</a>尝试吧",
