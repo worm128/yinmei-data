@@ -1,4 +1,4 @@
 [
-{"name":"吟美分析模块","cover":"https://www.yinmei.vip/images/logo.png","description":"分析模块包含了吟美的意图分析、意图训练、长期记忆、向量缓存、扩散思维、提示词压缩等需要调用cuda人工智能的能力","Windows":"https://pan.baidu.com/s/16MlCywmxT9YnSZWCfKZ7Hg?pwd=8fmi","Linux":"https://pan.baidu.com/s/1gSxciS5iOpg8TQ4J7QHYDQ?pwd=9hf7"},
-{"name":"GPT-SoVITS全系列","cover":"https://i0.hdslb.com/bfs/archive/d6479e979b14a724962f6acdcea1abd427650230.jpg","description":"一款开源的TTS语音合成工具，非流式用api.bat启动，流式用api-stream.bat启动，开启流式吟美核心也要配合开启流式","Windows":"https://pan.baidu.com/s/1ggPwvYSmbgK14kswiJVGQw?pwd=nqjv","Linux":"https://pan.baidu.com/s/1ggPwvYSmbgK14kswiJVGQw?pwd=nqjv"},
+{"name":"吟美分析模块","version":"3.0.1-Pre","cover":"https://www.yinmei.vip/images/logo.png","description":"分析模块包含了吟美的意图分析、意图训练、长期记忆、向量缓存、扩散思维、提示词压缩等需要调用cuda人工智能的能力","Windows":"https://pan.baidu.com/s/16MlCywmxT9YnSZWCfKZ7Hg?pwd=8fmi","Linux":"https://pan.baidu.com/s/1gSxciS5iOpg8TQ4J7QHYDQ?pwd=9hf7"},
+{"name":"GPT-SoVITS","version":"全系列","cover":"https://i0.hdslb.com/bfs/archive/d6479e979b14a724962f6acdcea1abd427650230.jpg","description":"一款开源的TTS语音合成工具，非流式用api.bat启动，流式用api-stream.bat启动，开启流式吟美核心也要配合开启流式","Windows":"https://pan.baidu.com/s/1ggPwvYSmbgK14kswiJVGQw?pwd=nqjv","Linux":"https://pan.baidu.com/s/1ggPwvYSmbgK14kswiJVGQw?pwd=nqjv"},
 ]
