@@ -1,5 +1,11 @@
 [
   {
+    "title": "最新3.0.3-Pre发布",
+    "icon": "https://img.icons8.com/?size=100&id=zSH66jP4NK8n&format=png&color=000000",
+    "description": "1、新增阿里百炼翻译能力，支持多国语言翻译<br/>2、加入软件商店，更多丰富软件提供下载<br/>3、修复win10日志颜色的问题<br/>大家快来<a href='https://www.yinmei.vip' target='_blank'>下载</a>尝试吧",
+    "time": "2026-11-25 20:00"
+  },
+  {
     "title": "最新3.0.2-Pre发布",
     "icon": "https://img.icons8.com/?size=100&id=zSH66jP4NK8n&format=png&color=000000",
     "description": "1、阿里百炼语音合成适配36+语种<br/>2、Harness工程优化升级，智能体更智能<br/>3、默认增加find-skills、skill-creator，让智能体可以自主发现网上的技能或者自己编码创造技能<br/>大家快来<a href='https://www.yinmei.vip' target='_blank'>下载</a>尝试吧",
